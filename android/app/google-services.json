@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058544821400",
+    "project_id": "bloc-app-39ac5",
+    "storage_bucket": "bloc-app-39ac5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058544821400:android:ca6b5f14156f7000365ced",
+        "android_client_info": {
+          "package_name": "com.example.todo_bloc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLEqDcaxz2-x6390ubku4UImffV0zHdi0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
